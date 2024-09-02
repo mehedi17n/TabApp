@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
                 0 -> tab.text = "CATS"
                 1 -> tab.text = "DOGS"
                 2 -> tab.text = "BIRDS"
+                3 -> tab.text = "COWS"
             }
         }.attach()
 
